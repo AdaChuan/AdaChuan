@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdaChuan
-- 👀 I’m interested in ...software development in the education field/ AI and machine learning
+- 👀 I’m interested in ... software development in the education field/ AI and machine learning
 - 🌱 I’m currently learning ... python, C, java, html, css, javascript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
