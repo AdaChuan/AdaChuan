@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: adaxia0616@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: actually an introvert
   
 <!--
 **AdaChuan/AdaChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
