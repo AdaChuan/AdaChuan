@@ -6,8 +6,8 @@
 - 💞️ I’m looking to collaborate on hackathon projects and tech-related initiatives
 - 📫 How to reach me adaxia0616@gmail.com OR https://www.linkedin.com/in/ada-xia-833947222/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love CrossFit and playing the piano too
-
+- ⚡ Fun fact: 
+  
 <!--
 **AdaChuan/AdaChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
