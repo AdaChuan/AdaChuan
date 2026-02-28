@@ -4,9 +4,11 @@
 - 👀 I’m interested in ML Ops, DataOps, InfraOps, SecureAI, web dev
 - 🌱 I’m currently learning Python, Java, C, C++, Javascript, HTML, CSS, React, Node.js
 - 💞️ I’m looking to collaborate on hackathon projects and tech-related initiatives
-- 📫 How to reach me adaxia0616@gmail.com OR https://www.linkedin.com/in/ada-xia-833947222/
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: adaxia0616@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: ...
   
 <!--
 **AdaChuan/AdaChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
