@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 I’m @AdaChuan
-- 👀 I’m interested in ML Ops & DataOps, Artificial Neural Network, Computer Vision
+- 👀 I’m interested in ML Ops & DataOps, InfraOps, SecureAI
 - 🌱 I’m currently learning Python, Java, C, C++, Javascript, HTML, CSS, React, Node.js
 - 💞️ I’m looking to collaborate on hackathon projects and tech-related initiatives
 - 📫 How to reach me adaxia0616@gmail.com OR https://www.linkedin.com/in/ada-xia-833947222/
