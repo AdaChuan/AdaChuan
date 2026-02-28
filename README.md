@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 👋 I’m @AdaChuan
+- 👀 I’m interested in ML Ops & DataOps, Artificial Neural Network, Computer Vision
+- 🌱 I’m currently learning Python, Java, C, C++, Javascript, HTML, CSS, React, Node.js
+- 💞️ I’m looking to collaborate on ... any hackathon activities
+- 📫 How to reach me adaxia0616@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love CrossFit and playing the piano too
+
 <!--
 **AdaChuan/AdaChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
