@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, Java, C/C++, Javascript, HTML, CSS, React, Node.js
 - 💞️ I’m looking to collaborate on hackathon projects and tech-related initiatives
 - 🤔 I’m looking for help with ... winning hackathons
-- 💬 Ask me about ...
+- 💬 Ask me about ... anything! always open to chat and connect
 - 📫 How to reach me: adaxia0616@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: actually an introvert
