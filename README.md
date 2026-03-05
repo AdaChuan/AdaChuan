@@ -4,7 +4,7 @@
 - 👀 I’m interested in ML Ops, DataOps, InfraOps, SecureAI, web dev
 - 🌱 I’m currently learning Python, Java, C/C++, Javascript, HTML, CSS, React, Node.js
 - 💞️ I’m looking to collaborate on hackathon projects and tech-related initiatives
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... winning hackathons
 - 💬 Ask me about ...
 - 📫 How to reach me: adaxia0616@gmail.com
 - 😄 Pronouns: she/her
